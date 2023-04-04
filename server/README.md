@@ -1,4 +1,4 @@
-# CCIP Server
+![](../_assets/_banner_2.png)
 
 ## Installation
 
