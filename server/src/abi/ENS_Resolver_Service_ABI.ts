@@ -1,3 +1,4 @@
+// This is the ABI for the ENS Resolver contract, THIS FILE IS SAFE TO COPY IN ITS ENTIRETY
 export const ENS_Resolver_Service_ABI = [
     {
         inputs: [
