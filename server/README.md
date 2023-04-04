@@ -1,6 +1,6 @@
 ![](../_assets/_banner_2.png)
 
-## Installation
+## 🔧 Installation
 
 Simply run install with your favourite package manager (npm, yarn, pnpm, etc.)
 
@@ -9,7 +9,7 @@ cd server
 npm install
 ```
 
-## Usage
+## 🏃 Usage
 
 ```
 cd server
