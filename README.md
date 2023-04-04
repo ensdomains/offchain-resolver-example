@@ -1,4 +1,4 @@
-![](./_assets/banner.png)
+![](./_assets/_banner.png)
 
 This repository is an example implementation of a CCIP (Cross Chain Interoperability Protocol) gateway/server.
 
