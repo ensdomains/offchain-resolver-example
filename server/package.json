@@ -1,0 +1,32 @@
+{
+    "name": "ccip-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon --signal SIGTERM src/index.ts",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint -c .eslintrc.json --ext .ts ./src"
+    },
+    "keywords": [],
+    "author": "lucemans",
+    "license": "MIT",
+    "dependencies": {
+        "@chainlink/ccip-read-server": "^0.2.1",
+        "@lvksh/logger": "^1.6.4",
+        "ethers": "^6.2.3"
+    },
+    "devDependencies": {
+        "@typescript-eslint/parser": "^5.57.1",
+        "eslint": "^8.37.0",
+        "eslint-plugin-v3xlabs": "^1.6.0",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.3",
+        "nodemon": "^2.0.22"
+    },
+    "nodemonConfig": {
+        "execMap": {
+            "ts": "ts-node --esm"
+        }
+    }
+}

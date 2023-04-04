@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "target": "ES2022",
+        "module": "Node16",
+        "moduleResolution": "Node16",
+        "strictNullChecks": true,
+        "isolatedModules": true,
+        "strict": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
